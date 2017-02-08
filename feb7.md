@@ -1,4 +1,4 @@
-# Learning Journal: Feb 7, 2017
+# LJ Code 201 - Day 1 (Feb 7)
 
 Today, I:
 
