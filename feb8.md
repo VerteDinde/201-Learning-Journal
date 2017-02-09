@@ -10,6 +10,5 @@ Today, I:
 - margin: 0, 0, 0, 0 -> top, right, bottom, left
 - margin: 20px 0px;
 - I haven't learned how to do breakpoints for responsive design, but am going to research that as well - I think that would be an important thing to know.
-- 
 
 Today was the most challenging day so far; I had a difficult time with the last two questions. Learning to debug was important, though, and I'm very happy with the site and the quiz so far.
